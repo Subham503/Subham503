@@ -1,5 +1,45 @@
-# 💫 About Me:
-👋 Hi, I'm Subham!<br><br>Welcome to my personal README! This file gives a quick overview of who I am, what I’m learning, and what I’m working on.<br><br>🎓 About Me<br><br>🎯 Name: Subham Sahu<br><br>🎓 Undergraduate BTech Student at NIST University<br><br>📚 Currently in 2nd Year (3rd Semester)<br><br>💻 Passionate about programming and technology<br><br>🌱 Always eager to learn new skills<br><br>🧠 Academic Journey<br><br>Started with C Programming in 1st semester<br><br>Currently focusing on:<br><br>Data Structures & Algorithms (C++)<br><br>Design and Analysis of Algorithms (DAA)<br><br>Database Management Systems (DBMS)<br><br><br><br>Preparing for:<br><br>Interviews<br><br>Campus placements<br><br>💻 Technical Skills<br><br>Programming Languages<br><br>✅ C<br><br>✅ C++<br><br>✅ Python (Beginner → Intermediate)<br><br>✅ Java<br><br>Tools & Platforms<br><br>🧑‍💻 VS Code<br><br>🔧 Git & GitHub<br><br>🌐 Flask (Backend)<br><br>🤖 n8n (Automation)<br><br>Core Concepts<br><br>Data Structures & Algorithms<br><br>OOP Concepts<br><br>File Handling<br><br>🚀 Projects<br><br>📌 Academic & Personal Projects<br><br>🌐 AI Interactive Platform (Flask + Frontend)<br><br>📖 Learning & Growth<br><br>📺 Learning DSA from Apna College<br><br>🐍 Studied Python via 10-hour Beginner Course<br><br>📈 Planning to learn AI/ML in 2026<br><br>🔐 Interested in:<br><br>Blockchain<br><br>Cybersecurity<br><br>Frontend & Backend Development<br><br>Android Development<br><br>Logical Thinking<br><br>Integrating AI/ML Algorithms into Software<br><br>🎬 Hobbies & Interests<br><br>🎥 Watching Movies, Series & Anime<br><br>🎮 Interested in Game Development<br><br><br><br>📋 Study Preferences<br><br>✔️ Likes crisp revision notes<br><br>✔️ Prefers topic-wise practice sets<br><br>✔️ Focused on consistent improvement<br><br>✔️ Prepares strategically for exams<br><br>🎯 Goals<br><br>Short-Term<br><br>Crack campus placements<br><br>Improve DSA skills<br><br>Build strong projects<br><br>Earn technical certificates<br><br>Long-Term<br><br>Become a skilled Software Engineer<br><br>Work in AI/ML & Tech Industry<br><br>Build impactful products<br><br>Keep learning lifelong<br><br>📬 Contact & Profiles<br><br><br><br>💻 GitHub: https://github.com/subham503<br><br>📧 Email: sahusubham38632@gmail.com<br><br>🔗 LinkedIn: https://www.linkedin.com/in/subham-sahu-b4a872325<br><br>🌟 Motto<br><br>"Learn. Build. Improve. Repeat."<br><br>⭐ If you’re reading this, thanks for stopping by! Feel free to connect and collaborate.<br><br>
+# 👋 Hi, I'm Subham<br><br>
+
+🎓 BTech Student at NIST University | 💻 Aspiring Software Engineer<br><br>
+
+---
+
+🚀 About Me<br><br>
+- Passionate about programming & problem-solving<br><br>
+- Interested in logical thinking and AI/ML integration<br><br>
+- Focused on DSA, core CS, and placements<br><br>
+
+---
+
+💻 Skills<br><br>
+
+Languages: C, C++, Python, Java<br><br>
+Tools: VS Code, Git, GitHub, Flask, n8n<br><br>
+Core: DSA, OOP, File Handling<br><br>
+
+---
+
+📚 Currently Learning<br><br>
+- DSA (C++)<br><br>
+- DAA, DBMS<br><br>
+- AI/ML (Planned)<br><br>
+
+---
+
+📌 Projects<br><br>
+- AI Interactive Platform (Flask + Frontend)<br><br>
+
+---
+
+🎯 Goals<br><br>
+- Crack placements<br><br>
+- Build strong projects<br><br>
+- Grow as a software engineer<br><br>
+
+---
+
+\"Learn. Build. Improve. Repeat.\"
+
 
 
 ## 🌐 Socials:
