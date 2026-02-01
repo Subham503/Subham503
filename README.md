@@ -1,42 +1,4 @@
-# 👋 Hi, I'm Subham<br><br>
-
-🎓 BTech Student at NIST University | 💻 Aspiring Software Engineer<br><br>
-
----
-
-🚀 About Me<br><br>
-- Passionate about programming & problem-solving<br><br>
-- Interested in logical thinking and AI/ML integration<br><br>
-- Focused on DSA, core CS, and placements<br><br>
-
----
-
-💻 Skills<br><br>
-
-Languages: C, C++, Python, Java<br><br>
-Tools: VS Code, Git, GitHub, Flask, n8n<br><br>
-Core: DSA, OOP, File Handling<br><br>
-
----
-
-📚 Currently Learning<br><br>
-- DSA (C++)<br><br>
-- DAA, DBMS<br><br>
-- AI/ML (Planned)<br><br>
-
----
-
-📌 Projects<br><br>
-- AI Interactive Platform (Flask + Frontend)<br><br>
-
----
-
-🎯 Goals<br><br>
-- Crack placements<br><br>
-- Build strong projects<br><br>
-- Grow as a software engineer<br><br>
-
----
+# 👋 Hi, I'm Subham Sahu<br><br> 🎓 BTech Student at NIST University | 💻 Aspiring Software Engineer --- * 🚀 About Me * Passionate about programming & problem-solving 💡 * Interested in logical thinking and AI/ML integration 🤖 * 💻 Skills * Languages: C, C++, Python, Java * Tools: VS Code, GitHub, Flask, n8n * 📚 Currently Learning * DSA (C++) * AI/ML * 📌 Projects * AI Interactive Platform (Flask + Frontend) 🌐 ---
 
 \"Learn. Build. Improve. Repeat.\"
 
