@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Subham Sahu 🎓
+# 👋 Hi, I'm Subham Sahu 
 
-BTech Student at NIST University | 💻 Aspiring Software Engineer ---
+🎓 BTech Student at NIST University | 💻 Aspiring Software Engineer ---
 
 * 🚀 **About Me**
 * Passionate about programming & problem-solving 💡
