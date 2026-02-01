@@ -2,16 +2,16 @@
 
 BTech Student at NIST University | 💻 Aspiring Software Engineer ---
 
-* 🚀 About Me
+* 🚀 **About Me**
 * Passionate about programming & problem-solving 💡
 * Interested in logical thinking and AI/ML integration 🤖
-* 💻 Skills
+* 💻 **Skills**
 * Languages: C, C++, Python, Java
 * Tools: VS Code, GitHub, Flask, n8n
-* 📚 Currently Learning
+* 📚 **Currently Learning**
 * DSA (C++)
 * AI/ML
-* 📌 Projects
+* 📌 **Projects**
 * AI Interactive Platform (Flask + Frontend) 🌐 ---
 
 \"Learn. Build. Improve. Repeat.\"
