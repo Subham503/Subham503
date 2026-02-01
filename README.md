@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Subham!<br><br>Welcome to my personal README! This file gives a quick overview of who I am, what I’m learning, and what I’m working on.<br><br>🎓 About Me<br><br>🎯 Name: Subham Sahu<br><br>🎓 Undergraduate BTech Student at NIST University<br><br>📚 Currently in 2nd Year (3rd Semester)<br><br>💻 Passionate about programming and technology<br><br>🌱 Always eager to learn new skills<br><br>🧠 Academic Journey<br><br>Started with C Programming in 1st semester<br><br>Currently focusing on:<br><br>Data Structures & Algorithms (C++)<br><br>Design and Analysis of Algorithms (DAA)<br><br>Database Management Systems (DBMS)<br><br><br><br>Preparing for:<br><br>Interviews<br><br>Campus placements<br><br>💻 Technical Skills<br><br>Programming Languages<br><br>✅ C<br><br>✅ C++<br><br>✅ Python (Beginner → Intermediate)<br><br>✅ Java<br><br>Tools & Platforms<br><br>🧑‍💻 VS Code<br><br>🔧 Git & GitHub<br><br>🌐 Flask (Backend)<br><br>🤖 n8n (Automation)<br><br>Core Concepts<br><br>Data Structures & Algorithms<br><br>OOP Concepts<br><br>File Handling<br><br>🚀 Projects<br><br>📌 Academic & Personal Projects<br><br>🌐 AI Interactive Platform (Flask + Frontend)<br><br>📖 Learning & Growth<br><br>📺 Learning DSA from Apna College<br><br>🐍 Studied Python via 10-hour Beginner Course<br><br>📈 Planning to learn AI/ML in 2026<br><br>🔐 Interested in:<br><br>Blockchain<br><br>Cybersecurity<br><br>Frontend & Backend Development<br><br>Android Development<br><br>Logical Thinking<br><br>Integrating AI/ML Algorithms into Software<br><br>🎬 Hobbies & Interests<br><br>🎥 Watching Movies, Series & Anime<br><br>🎮 Interested in Game Development<br><br><br><br>📋 Study Preferences<br><br>✔️ Likes crisp revision notes<br><br>✔️ Prefers topic-wise practice sets<br><br>✔️ Focused on consistent improvement<br><br>✔️ Prepares strategically for exams<br><br>🎯 Goals<br><br>Short-Term<br><br>Crack campus placements<br><br>Improve DSA skills<br><br>Build strong projects<br><br>Earn technical certificates<br><br>Long-Term<br><br>Become a skilled Software Engineer<br><br>Work in AI/ML & Tech Industry<br><br>Build impactful products<br><br>Keep learning lifelong<br><br>📬 Contact & Profiles<br><br><br><br>💻 GitHub: https://github.com/subham503<br><br>📧 Email: sahusubham38632@gmail.com<br><br>🔗 LinkedIn: https://www.linkedin.com/in/subham-sahu-b4a872325<br><br>🌟 Motto<br><br>"Learn. Build. Improve. Repeat."<br><br>⭐ If you’re reading this, thanks for stopping by! Feel free to connect and collaborate.<br><br>
 
-<!--
-**Subham503/Subham503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhamsahu2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subham-sahu-b4a872325?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9dG9ZSUlR1SmV1J7WdYy%2Bg%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Subham_006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahusubham38632@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Subham503&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Subham503&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham503&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Subham503&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
