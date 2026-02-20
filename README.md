@@ -7,12 +7,10 @@
 * Interested in logical thinking and AI/ML integration 🤖
 * 💻 **Skills**
 * Languages: C, C++, Python, Java
-* Tools: VS Code, GitHub, Flask, n8n
+* Tools: VS Code, GitHub, n8n, Jupyter Notebook
 * 📚 **Currently Learning**
 * DSA (C++)
 * AI/ML
-* 📌 **Projects**
-* AI Interactive Platform (Flask + Frontend) 🌐 ---
 
 \"Learn. Build. Improve. Repeat.\"
 
