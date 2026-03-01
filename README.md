@@ -1,16 +1,54 @@
-# 👋 Hi, I'm Subham Sahu 
+# Hi, I'm Subham 👋  
+BTech Student at NIST University | Aspiring Software Engineer  
 
-🎓 BTech Student at NIST University | 💻 Aspiring Software Engineer ---
+---
 
-* 🚀 **About Me**
-* Passionate about programming & problem-solving 💡
-* Interested in logical thinking and AI/ML integration 🤖
-* 💻 **Skills**
-* Languages: C, C++, Python, Java
-* Tools: VS Code, GitHub, n8n, Jupyter Notebook
-* 📚 **Currently Learning**
-* DSA (C++)
-* AI/ML
+## 🚀 What I Do
+- Build strong problem-solving skills through DSA  
+- Practice regularly on LeetCode  
+- Explore AI/ML concepts and real-world applications  
+- Focus on writing clean, efficient, and logical code  
+
+---
+
+## 💻 Tech Stack
+**Languages:** C, C++, Python, Java  
+**Tools:** VS Code, GitHub, n8n, Jupyter Notebook  
+**Core Concepts:** Data Structures, Algorithms, OOP  
+
+---
+
+## 📊 Competitive Programming
+- 🧠 LeetCode: https://leetcode.com/your-username  
+- Solved 35+ problems and continuously improving  
+- Focus Areas: Arrays, Binary Search, Recursion, STL  
+
+---
+
+## 📚 Currently Working On
+- Deep diving into DSA using C++  
+- Improving problem-solving consistency  
+- Learning AI/ML fundamentals with Python  
+
+---
+
+## 🎯 Goals
+- Crack top tech interviews  
+- Build impactful AI-powered projects  
+- Learn. Build. Improve. Repeat.  
+
+---
+
+## 📫 Reach Me
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/subham-sahu-b4a872325/)
+- 📧 Email: sahusubham38632@gmail.com
+- 🧠 LeetCode : (https://leetcard.jacoblin.cool/subhamsahu2006?theme=dark&font=Karma)](https://leetcode.com/u/subhamsahu2006/)
+
+
+
+## 📫 Reach Me
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: your-email@example.com  
 
 \"Learn. Build. Improve. Repeat.\"
 
