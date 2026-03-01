@@ -18,13 +18,6 @@ BTech Student at NIST University | Aspiring Software Engineer
 
 ---
 
-## 📊 Competitive Programming
-- 🧠 LeetCode: https://leetcode.com/your-username  
-- Solved 35+ problems and continuously improving  
-- Focus Areas: Arrays, Binary Search, Recursion, STL  
-
----
-
 ## 📚 Currently Working On
 - Deep diving into DSA using C++  
 - Improving problem-solving consistency  
@@ -40,18 +33,13 @@ BTech Student at NIST University | Aspiring Software Engineer
 ---
 
 ## 📫 Reach Me
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/subham-sahu-b4a872325/)
-- 📧 Email: sahusubham38632@gmail.com
-- 🧠 LeetCode : (https://leetcard.jacoblin.cool/subhamsahu2006?theme=dark&font=Karma)](https://leetcode.com/u/subhamsahu2006/)
+- 💼 **LinkedIn:** [Subham Sahu](https://www.linkedin.com/in/subham-sahu-b4a872325/)  
+- 🧠 **LeetCode:** [Subham Sahu](https://leetcode.com/u/subhamsahu2006/)  
+- 📧 Email: sahusubham38632@gmail.com  
 
+---
 
-
-## 📫 Reach Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your-email@example.com  
-
-\"Learn. Build. Improve. Repeat.\"
-
+"Learn. Build. Improve. Repeat."
 
 
 ## 🌐 Socials:
