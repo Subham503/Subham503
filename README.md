@@ -35,7 +35,8 @@ BTech Student at NIST University | Aspiring Software Engineer
 ## 📫 Reach Me
 - 💼 **LinkedIn:** [Subham Sahu](https://www.linkedin.com/in/subham-sahu-b4a872325/)  
 - 🧠 **LeetCode:** [Subham Sahu](https://leetcode.com/u/subhamsahu2006/)  
-- 📧 Email: sahusubham38632@gmail.com  
+- 📧 Email: sahusubham38632@gmail.com
+- 🐦 **X (Twitter):** [Subham Sahu]((https://x.com/Subham_006)) 
 
 ---
 
