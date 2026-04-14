@@ -49,11 +49,8 @@ BTech Student at NIST University | Aspiring Software Engineer
 
 # 📊 GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subham503&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subham503&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subham503&theme=github_dark)
+![](https://streak-stats.demolab.com?user=Subham503&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham503&theme=dark&hide_border=true&layout=compact&langs_count=6)
 ---
 [![](https://visitcount.itsvg.in/api?id=Subham503&icon=0&color=0)](https://visitcount.itsvg.in)
 
