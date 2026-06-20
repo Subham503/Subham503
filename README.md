@@ -1,57 +1,52 @@
-# Hi, I'm Subham 👋  
-BTech Student at NIST University | Aspiring Software Engineer  
+# Subham Sahu
+
+Pre-Final Year B.Tech Computer Science Student · NIST University
+
+`C++` `Python` `Data Structures & Algorithms` `Machine Learning`
 
 ---
 
-## 🚀 What I Do
-- Build strong problem-solving skills through DSA  
-- Practice regularly on LeetCode  
-- Explore AI/ML concepts and real-world applications  
-- Focus on writing clean, efficient, and logical code  
+## About Me
+
+Passionate about solving complex problems through software and intelligent systems. Currently strengthening my foundations in Data Structures & Algorithms while exploring Machine Learning through hands-on projects.
 
 ---
 
-## 💻 Tech Stack
-**Languages:** C, C++, Python, Java  
-**Tools:** VS Code, GitHub, n8n, Jupyter Notebook  
-**Core Concepts:** Data Structures, Algorithms, OOP  
+## Current Journey
+
+* Solving DSA problems consistently
+* Building a strong foundation in Machine Learning
+* Developing real-world projects
+* Strengthening core computer science concepts
 
 ---
 
-## 📚 Currently Working On
-- Deep diving into DSA using C++  
-- Improving problem-solving consistency  
-- Learning AI/ML fundamentals with Python  
+## Tech Stack
+
+**Languages** `C` `C++` `Python` `Java`
+
+**Core CS** `Data Structures` `Algorithms` `OOP` `DBMS`
+
+**Tools** `VS Code` `Git` `GitHub` `Jupyter Notebook` `n8n`
+
+**ML & Data** `NumPy` `Pandas` `Matplotlib` `Scikit-Learn`
 
 ---
 
-## 🎯 Goals
-- Crack top tech interviews  
-- Build impactful AI-powered projects  
-- Learn. Build. Improve. Repeat.  
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subham503&show_icons=true&hide_border=true&theme=transparent" />
+</p>
+
+
 
 ---
 
-## 📫 Reach Me
-- 💼 **LinkedIn:** [Subham Sahu](https://www.linkedin.com/in/subham-sahu-b4a872325/)  
-- 🧠 **LeetCode:** [Subham Sahu](https://leetcode.com/u/subhamsahu2006/)  
-- 📧 **Email:** sahusubham38632@gmail.com
-- 🐦 **X (Twitter):** [Subham Sahu](https://x.com/Subham_006)
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/subham-sahu-b4a872325/) • [LeetCode](https://leetcode.com/u/subhamsahu2006/) • [Email](mailto:sahusubham38632@gmail.com) • [X](https://x.com/Subham_006)
 
 ---
 
-"Learn. Build. Improve. Repeat."
- 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logo=python&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://streak-stats.demolab.com?user=Subham503&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subham503&theme=dark&hide_border=true&layout=compact&langs_count=6)
----
-[![](https://visitcount.itsvg.in/api?id=Subham503&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Learn. Build. Improve. Repeat.
