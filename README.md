@@ -45,7 +45,7 @@ Passionate about solving complex problems through software and intelligent syste
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/subham-sahu-b4a872325/) • [LeetCode](https://leetcode.com/u/subhamsahu2006/) • [Email](mailto:sahusubham38632@gmail.com) • [X](https://x.com/Subham_006)
+[LinkedIn](https://www.linkedin.com/in/subham-sahu-b4a872325/) • [Email](mailto:sahusubham38632@gmail.com) • [X](https://x.com/Subham_006)
 
 ---
 
